@@ -1,4 +1,4 @@
-# AE-1.Creacian-de-una-pagina-web_Grupo3
+# AE-1.Creacion-de-una-pagina-web_Grupo3
 
 -English: This task is about creating the view part of a web page about a fictitious business. The management of HTML, CSS will be valued.
 
